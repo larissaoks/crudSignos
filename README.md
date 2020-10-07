@@ -1,4 +1,5 @@
-# crud-completo-signos
+# Crud completo sobre signos
+Projeto da faculdade desenvolvido para a matéria de VueJS
 
 ## Project setup
 ```
